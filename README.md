@@ -1,6 +1,6 @@
-# test1
+# 팀 소개 페이지
 
-A new Flutter project.
+팀 소개 페이지와 팀원 소개 페이지
 
 ## Getting Started
 
